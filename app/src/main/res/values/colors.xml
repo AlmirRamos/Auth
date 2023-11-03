@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="onPrimary">#dc1144</color>
+    <color name="vermelho">#dc4411</color>
+    <color name="verde">#11dca9</color>
+    <color name="roxo">#dc11a9</color>
+    <color name="amarelo">#dca911</color>
+    <color name="verde_claro">#44dc11</color>
+
+    <color name="bg_principal">#2A2B32</color>
 </resources>
