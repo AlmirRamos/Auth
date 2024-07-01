@@ -1,7 +1,8 @@
 # Aplicativo de layout interativo 
 ## Tela de login dinâmica 
 
-Um app simples com uma tela de login, cadastro e recuração de senha interativa, em uma unica tela de layout, usando apenas uma Activity
+Um app simples com uma tela de login, cadastro e recuração de senha interativa, em uma unica tela de layout, usando apenas uma Activity.
+
 O app tem verificações de campo vazio, senha inválida, ocultar senha e mostrar se o usuário quiser, com personalizações interessantes no TextInpuLayout
 
 
